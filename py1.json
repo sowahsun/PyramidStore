@@ -12,6 +12,15 @@
             "changeable": 0
         },
         {
+            "key": "奇迹APP",
+            "name": "奇迹APP",
+            "type": 3,
+            "api": "./plugin/app/奇迹APP.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
             "key": "mifun",
             "name": "MiFunAPP",
             "type": 3,
