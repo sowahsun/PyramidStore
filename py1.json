@@ -306,7 +306,7 @@
         },
         {
             "key": "服务器油管",
-            "name": "服务器油管",
+            "name": "proxy-服务器油管",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
             "style": {
@@ -319,7 +319,7 @@
         },
         {
             "key": "油管播放列表1",
-            "name": "油管播放列表1",
+            "name": "proxy-油管播放列表1",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/ytlb.php",
             "style": {
@@ -331,7 +331,7 @@
         },
         {
             "key": "油管播放列表2",
-            "name": "油管播放列表2",
+            "name": "proxy-油管播放列表2",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/ytlb1.php",
             "style": {
@@ -340,15 +340,6 @@
             },
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "直播转点播",
-            "name": "直播转点播",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/zh/2241-2.php",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "1,2,3"
         },
         {
             "key": "低端影视",
