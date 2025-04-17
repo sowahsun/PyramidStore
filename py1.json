@@ -628,10 +628,16 @@
     ],
     "lives": [
         {
-            "name": "LITV直播(python)",
+           "name": "LITV直播(python)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
       "ext": {}
-        }
+        },
+       {
+            "name": "野火直播",
+            "url": "http://192.168.33.188:15678/index.php?token=71c50a5c61&live=m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
     ]
 }
