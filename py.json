@@ -35,7 +35,7 @@
          "key":"光速app",
          "name":"光速app",
          "type":3,
-         "api":"./光速APP.py",
+         "api":"./plugin/app/光速APP.py",
          "searchable":1,
          "filterable":0,
          "changeable":0
