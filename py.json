@@ -464,7 +464,7 @@
             "type": 3,
             "searchable": 0,
             "timeout": 60,
-            "api": "http://zhangqun1818.serv00.net/zq/cat/live2vod.js",
+            "api": "./js/live2vod.js",
             "style": {
                 "type": "list",
                 "ratio": 1.1
