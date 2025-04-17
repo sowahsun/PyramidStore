@@ -206,7 +206,7 @@
             },
             "api": "csp_GM",
             "ext": {
-                "userScript": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
+                "userScript": "./js/ysfp.user.js",
                 "debug": false,
                 "webViewSettings": {
                     "blockNetworkImage": true,
@@ -236,7 +236,7 @@
                     }
                 }
             },
-            "jar": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
+            "jar": "./jar/GM.jar"
         },
         {
             "key": "沐辰八号影院",
@@ -463,7 +463,6 @@
         {
             "name": "proxy",
             "hosts": [
-                "raw.githubusercontent.com",
                 "googlevideo.com",
                 "cdn.v82u1l.com",
                 "cdn.iz8qkg.com",
