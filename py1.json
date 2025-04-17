@@ -173,6 +173,42 @@
             "filterable": 0,
             "changeable": 0
         },
+         {
+        "key": "优APP",
+        "name": "优APP",
+        "type": 3,
+        "api": "./plugin/official/优.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "爱APP",
+        "name": "爱APP",
+        "type": 3,
+        "api": "./plugin/official/爱.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "腾APP",
+        "name": "腾APP",
+        "type": 3,
+        "api": "./plugin/official/腾.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "芒APP",
+        "name": "芒APP",
+        "type": 3,
+        "api": "./plugin/official/芒.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
         {
             "key": "沐辰Hi视频",
             "name": "沐辰Hi视频",
