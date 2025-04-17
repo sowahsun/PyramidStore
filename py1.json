@@ -634,8 +634,8 @@
       "ext": {}
         },
        {
-            "name": "野火直播",
-            "url": "http://192.168.33.188:15678/index.php?token=71c50a5c61&live=m3u",
+            "name": "肥羊35455",
+            "url": "http://192.168.33.188:35455/tv.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
