@@ -3,16 +3,6 @@
     "wallpaper": "https://深色壁纸.xxooo.cf",
     "sites": [
         {
-            "key": "Qile优视频",
-            "name": "Qile优视频",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_Uvod",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
             "key": "沐辰界影视",
             "name": "沐辰界影视",
             "type": 3,
@@ -194,8 +184,18 @@
             "changeable": 0
         },
         {
+            "key": "Qile优视频",
+            "name": "proxy-Qile优视频",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_Uvod",
+            "playerType": 2,
+            "filterable": 1
+        },
+        {
             "key": "Cori爱壹帆",
-            "name": "Cori爱壹帆",
+            "name": "proxy-Cori爱壹帆",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -463,6 +463,7 @@
         {
             "name": "proxy",
             "hosts": [
+                "raw.githubusercontent.com",
                 "googlevideo.com",
                 "cdn.v82u1l.com",
                 "cdn.iz8qkg.com",
