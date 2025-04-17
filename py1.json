@@ -628,36 +628,10 @@
     ],
     "lives": [
         {
-            "name": "网剧独播",
-            "url": "http://zhangqun1818.serv00.net/zh/网剧独播.txt"
-        },
-        {
-            "name": "直播爬虫",
-            "type": 3,
-            "api": "https://tang.hz.cz/js/ethtv.js",
-            "ext": ""
-        },
-        {
-            "name": "谍工看片社",
-            "url": "http://zhangqun1818.serv00.net/zh/谍工看片社.txt"
-        },
-        {
-            "name": "谍影剧场",
-            "url": "http://zhangqun1818.serv00.net/zh/谍影剧场.txt"
-        },
-        {
-            "name": "百家讲坛",
-            "url": "http://zhangqun1818.serv00.net/zh/百家讲坛.txt"
-        },
-        {
-            "name": "政治时事",
-            "url": "http://zhangqun1818.serv00.net/141.php"
-        },
-        {
-            "name": "野火直播",
-            "url": "http://zhangqun1818.serv00.net/zq/野火改.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {}
         }
     ]
 }
