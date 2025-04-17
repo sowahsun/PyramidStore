@@ -1,23 +1,218 @@
 [
-  {
-    "key": "金牌",
-    "name": "金牌",
-    "type": 3,
-    "api": "爬虫所在位置/金牌.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-      "site": "域名1,域名2,域名3......"
+    {
+        "key": "appv2",
+        "name": "APPV2",
+        "type": 3,
+        "api": "./plugin/app/APPV2.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "clicli动漫",
+        "name": "Clicli动漫APP",
+        "type": 3,
+        "api": "./plugin/app/Clicli动漫APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "mifun",
+        "name": "MiFunAPP",
+        "type": 3,
+        "api": "./plugin/app/MiFunAPP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "hitv",
+        "name": "hitvAPP",
+        "type": 3,
+        "api": "./plugin/app/hitvAPP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "sanhaodongman",
+        "name": "三号动漫APP",
+        "type": 3,
+        "api": "./plugin/app/三号动漫APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "yunduan",
+        "name": "云端APP",
+        "type": 3,
+        "api": "./plugin/app/云端APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "yunsuyingshi",
+        "name": "云速影视APP",
+        "type": 3,
+        "api": "./plugin/app/云速影视APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "guangsu",
+        "name": "光速APP",
+        "type": 3,
+        "api": "./plugin/app/光速APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "juduoduanju",
+        "name": "剧多短剧APP",
+        "type": 3,
+        "api": "./plugin/app/剧多短剧APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "waiwai",
+        "name": "哇哇APP",
+        "type": 3,
+        "api": "./plugin/app/哇哇APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "guowai",
+        "name": "国外剧APP",
+        "type": 3,
+        "api": "./plugin/app/国外剧APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "xiaoapple",
+        "name": "小苹果APP",
+        "type": 3,
+        "api": "./plugin/app/小苹果APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "lianyuyingshi",
+        "name": "恋鱼影视APP",
+        "type": 3,
+        "api": "./plugin/app/恋鱼影视APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "youyou",
+        "name": "悠悠APP",
+        "type": 3,
+        "api": "./plugin/app/悠悠APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "huoche",
+        "name": "火车太顺APP",
+        "type": 3,
+        "api": "./plugin/app/火车太顺APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "aiguitv",
+        "name": "爱瓜TVAPP",
+        "type": 3,
+        "api": "./plugin/app/爱瓜TVAPP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "pipixia",
+        "name": "皮皮虾APP",
+        "type": 3,
+        "api": "./plugin/app/皮皮虾APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "meipai",
+        "name": "美拍APP",
+        "type": 3,
+        "api": "./plugin/app/美拍APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "panghu",
+        "name": "胖虎APP",
+        "type": 3,
+        "api": "./plugin/app/胖虎APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "ruoxizhuiju",
+        "name": "若惜追剧APP",
+        "type": 3,
+        "api": "./plugin/app/若惜追剧APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "shijue",
+        "name": "视觉APP",
+        "type": 3,
+        "api": "./plugin/app/视觉APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "bianyuanyingshi",
+        "name": "边缘影视APP",
+        "type": 3,
+        "api": "./plugin/app/边缘影视APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "lingdu",
+        "name": "零度影视APP",
+        "type": 3,
+        "api": "./plugin/app/零度影视APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+    },
+    {
+        "key": "mofangyingshi",
+        "name": "魔方影视APP",
+        "type": 3,
+        "api": "./plugin/app/魔方影视APP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
     }
-  },
-  {
-    "key": "光速",
-    "name": "光速",
-    "type": 3,
-    "api": "爬虫所在位置/光速.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  }
 ]
