@@ -1,0 +1,22 @@
+{
+    "drives": [
+        {
+            "name": "小雅网盘1",
+            "search": true,
+            "searchable": true,
+            "server": "http://183.187.101.172:5678/"
+        },
+        {
+            "name": "小雅网盘2",
+            "search": true,
+            "searchable": true,
+            "server": "http://59.61.250.91:5678/"
+        },
+        {
+            "name": "小雅网盘3",
+            "search": true,
+            "searchable": true,
+            "server": "http://106.54.39.182:5678/"
+        }
+    ]
+}
