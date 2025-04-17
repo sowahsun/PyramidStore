@@ -638,6 +638,6 @@
             "url": "http://192.168.33.188:15678/index.php?token=71c50a5c61&live=m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        }
     ]
 }
