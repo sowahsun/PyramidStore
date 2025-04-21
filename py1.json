@@ -21,14 +21,18 @@
             "changeable": 0
         },
           {
-            "key": "金牌",
-            "name": "金牌",
-            "type": 4,
-            "api": "./plugin/html/金牌.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
+        "key": "xxxx",
+        "name": "xxxx",
+        "type": 3,
+        "api": "./plugin/html/金牌.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 1,
+        "ext": {
+            "site": "https://www.jiabaide.cn,域名2,域名3"
+        }
+    },
         {
             "key": "mifun",
             "name": "MiFunAPP",
