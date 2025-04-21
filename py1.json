@@ -28,10 +28,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "changeable": 1,
-        "ext": {
-            "site": "https://www.jiabaide.cn,域名2,域名3"
-        }
+        "changeable": 1
     },
         {
             "key": "mifun",
