@@ -183,6 +183,15 @@
             "filterable": 0,
             "changeable": 0
         },
+        {
+            "key": "嗷呜动漫",
+            "name": "嗷呜动漫",
+            "type": 3,
+            "api": "./plugin/html/嗷呜动漫.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
          {
         "key": "优APP",
         "name": "优APP",
