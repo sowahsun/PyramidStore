@@ -21,8 +21,8 @@
             "changeable": 0
         },
           {
-        "key": "xxxx",
-        "name": "xxxx",
+        "key": "金牌",
+        "name": "金牌",
         "type": 3,
         "api": "./plugin/html/金牌.py",
         "searchable": 1,
