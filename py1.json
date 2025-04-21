@@ -14,7 +14,7 @@
         {
             "key": "奇迹APP",
             "name": "奇迹APP",
-            "type": 4,
+            "type": 3,
             "api": "./plugin/app/奇迹APP.py",
             "searchable": 1,
             "filterable": 0,
@@ -23,7 +23,7 @@
           {
             "key": "金牌",
             "name": "金牌",
-            "type": 3,
+            "type": 4,
             "api": "./plugin/html/金牌.py",
             "searchable": 1,
             "filterable": 0,
