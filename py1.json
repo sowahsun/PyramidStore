@@ -21,10 +21,10 @@
             "changeable": 0
         },
           {
-        "key": "金牌",
-        "name": "金牌",
+        "key": "骚火电影",
+        "name": "骚火电影",
         "type": 3,
-        "api": "./plugin/html/金牌.py",
+        "api": "./plugin/html/骚火电影.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
