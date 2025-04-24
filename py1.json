@@ -418,7 +418,7 @@
             "key": "低端影视",
             "name": "低端┃影视",
             "type": 3,
-            "api": "http://zhangqun1818.serv00.net/zq/api/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
             "style": {
                 "type": "rect",
