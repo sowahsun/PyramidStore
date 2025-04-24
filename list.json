@@ -31,15 +31,6 @@
             "changeable": 0
         },
       {
-            "key": "aiguitv",
-            "name": "爱瓜TVAPP",
-            "type": 3,
-            "api": "./plugin/app/爱瓜TVAPP.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
-      {
             "key": "ruoxizhuiju",
             "name": "若惜追剧APP",
             "type": 3,
@@ -47,33 +38,6 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0
-        },
-      {
-            "key": "lingdu",
-            "name": "零度影视APP",
-            "type": 3,
-            "api": "./plugin/app/零度影视APP.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
-      {
-            "key": "mofangyingshi",
-            "name": "魔方影视APP",
-            "type": 3,
-            "api": "./plugin/app/魔方影视APP.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
-     {
-            "key": "嗷呜动漫",
-            "name": "嗷呜动漫",
-            "type": 3,
-            "api": "./plugin/html/嗷呜动漫.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
         },
       {
             "key": "沐辰Hi视频",
@@ -93,16 +57,6 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0
-           },
-        {
-            "key": "Qile优视频",
-            "name": "proxy-Qile优视频",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_Uvod",
-            "playerType": 2,
-            "filterable": 1
            },
         {
             "key": "沐辰八号影院",
