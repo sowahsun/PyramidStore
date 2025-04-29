@@ -29,7 +29,7 @@
             "filterable": 0,
             "changeable": 0
         },
-          {
+        {
         "key": "骚火电影",
         "name": "骚火电影",
         "type": 3,
@@ -38,7 +38,17 @@
         "quickSearch": 1,
         "filterable": 1,
         "changeable": 1
-    },
+        },
+        {
+        "key": "4KAV",
+        "name": "4KAV",
+        "type": 3,
+        "api": "./plugin/html/4KAV.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
         {
             "key": "mifun",
             "name": "MiFunAPP",
