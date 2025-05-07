@@ -1,5 +1,5 @@
 [
-    {
+{
         "name": "内网肥羊",
         "url": "http://192.168.33.188:35455/tv.m3u"
     },
@@ -7,16 +7,20 @@
         "name": "bptv卫视",
         "url": "http://192.168.33.188/bptv.m3u"
     },
-    {
-        "name": "tv1",
-        "url":"http://192.168.33.188/tv1.m3u"
+{
+        "name": "BRTV同步更新",
+        "url": "https://github.catvod.com/https://github.com/mytv-android/BRTV-Live-M3U8/blob/main/BRTV.m3u"
     },
-    {
-        "name": "失效",
-        "url": "http://92.112.22.21:35455/tv.m3u"
+ {
+        "name": "卫视同步更新",
+        "url": "https://github.catvod.com/https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/tv.m3u"
+    },       
+{
+        "name": "Guovin_ipv4",
+        "url":"https://github.catvod.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
     },
 {
-        "name": "内网itv",
-        "url": "./zhibo.m3u"
+        "name": "live杂源",
+        "url": "https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"
     }
 ]
