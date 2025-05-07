@@ -4,10 +4,6 @@
         "url": "http://192.168.33.188:35455/tv.m3u"
     },
 {
-        "name": "bptv卫视",
-        "url": "http://192.168.33.188/bptv.m3u"
-    },
-{
         "name": "BRTV同步更新",
         "url": "https://github.catvod.com/https://github.com/mytv-android/BRTV-Live-M3U8/blob/main/BRTV.m3u"
     },
