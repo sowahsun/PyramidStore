@@ -41,19 +41,19 @@
       {
         "name": "天光云影",
         "url": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/tgyy.apk",
-        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tyyyicon.png",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgyyicon.png",
         "version": "支持av3a"
       },
       {
         "name": "天光云影_mirror1",
         "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/tgyy.apk",
-        "icon": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tyyyicon.png",
+        "icon": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgyyicon.png",
         "version": "支持av3a"
       },
       {
         "name": "天光云影_mirror2",
         "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/tgyy.apk",
-        "icon": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tyyyicon.png",
+        "icon": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgyyicon.png",
         "version": "支持av3a"
       },
       {
@@ -141,7 +141,7 @@
       {
         "name": "内网下载",
         "url": "http://192.168.33.188/tgyy.apk",
-        "icon": "http://192.168.33.188/tyyyicon.png",
+        "icon": "http://192.168.33.188/tgyyicon.png",
         "version": "天光云影"
       }
     ]
