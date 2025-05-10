@@ -5,91 +5,91 @@
       {
         "name": "影视电视版",
         "url": "https://gh-proxy.llyke.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-armeabi_v7a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "电视最新版"
       },
       {
         "name": "影视电视版_mirror1",
         "url": "https://github.limoruirui.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-armeabi_v7a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "电视最新版"
       },
       {
         "name": "影视电视版_mirror2",
         "url": "https://gh.tryxd.cn/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-armeabi_v7a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "电视最新版"
       },
       {
         "name": "OK影视pro",
         "url": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/okpro.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "okpro"
       },
       {
         "name": "OK影视pro_mirror1",
         "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/okpro.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "okpro"
       },
       {
         "name": "OK影视pro_mirror2",
         "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/okpro.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "okpro"
       },
       {
         "name": "天光云影",
         "url": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/tgyy.apk",
-        "icon": "./image/tgicon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgicon.jpg",
         "version": "支持av3a"
       },
       {
         "name": "天光云影_mirror1",
         "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/tgyy.apk",
-        "icon": "./image/tgicon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgicon.jpg",
         "version": "支持av3a"
       },
       {
         "name": "天光云影_mirror2",
         "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/tgyy.apk",
-        "icon": "./image/tgicon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgicon.jpg",
         "version": "支持av3a"
       },
       {
         "name": "酷9",
         "url": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/ku9.apk",
-        "icon": "./image/ku9icon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ku9icon.jpg",
         "version": "酷9_V1.5.4"
       },
       {
         "name": "酷9_mirror1",
         "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/ku9.apk",
-        "icon": "./image/ku9icon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ku9icon.jpg",
         "version": "酷9_V1.5.4"
       },
       {
         "name": "酷9_mirror2",
         "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/ku9.apk",
-        "icon": "./image/ku9icon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ku9icon.jpg",
         "version": "酷9_V1.5.4"
       },
       {
         "name": "电视直播",
         "url": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/mytv.apk",
-        "icon": "./image/mytvicon.png",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/mytvicon.png",
         "version": "mytv 1.1.0.117基于天光3.3.9"
       },
       {
         "name": "电视直播_mirror1",
         "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/mytv.apk",
-        "icon": "./image/mytvicon.png",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/mytvicon.png",
         "version": "mytv 1.1.0.117基于天光3.3.9"
       },
       {
         "name": "电视直播_mirror2",
         "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/mytv.apk",
-        "icon": "./image/mytvicon.png",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/mytvicon.png",
         "version": "mytv 1.1.0.117基于天光3.3.9"
       }
     ]
@@ -100,19 +100,19 @@
       {
         "name": "影视手机版",
         "url": "https://gh-proxy.llyke.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-arm64_v8a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "手机最新版"
       },
       {
         "name": "影视手机版_mirror1",
         "url": "https://github.limoruirui.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-arm64_v8a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "手机最新版"
       },
       {
         "name": "影视手机版_mirror2",
         "url": "https://gh.tryxd.cn/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-arm64_v8a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "手机最新版"
       }
     ]
@@ -123,25 +123,25 @@
       {
         "name": "内网下载",
         "url": "http://192.168.33.188/ystv7a.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "电视最新版"
       },
       {
         "name": "内网下载",
         "url": "http://192.168.33.188/okprotv.apk",
-        "icon": "./image/images.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.jpg",
         "version": "Pro电视最新版"
       },
       {
         "name": "内网下载",
         "url": "http://192.168.33.188/ku9.apk",
-        "icon": "./image/ku9icon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ku9icon.jpg",
         "version": "V1.5.4"
       },
       {
         "name": "内网下载",
         "url": "http://192.168.33.188/tgyy.apk",
-        "icon": "./image/tgicon.jpg",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/tgicon.jpg",
         "version": "天光云影"
       }
     ]
