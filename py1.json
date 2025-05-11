@@ -35,8 +35,8 @@
             "type": 3,
             "api": "./plugin/app/海马影视.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "奇迹APP",
@@ -91,8 +91,8 @@
             "type": 3,
             "api": "./plugin/app/三号动漫APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "yunduan",
@@ -100,8 +100,8 @@
             "type": 3,
             "api": "./plugin/app/云端APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "yunsuyingshi",
@@ -118,8 +118,8 @@
             "type": 3,
             "api": "./plugin/app/光速APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "juduoduanju",
@@ -127,8 +127,8 @@
             "type": 3,
             "api": "./plugin/app/剧多短剧APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "guowai",
@@ -136,8 +136,8 @@
             "type": 3,
             "api": "./plugin/app/国外剧APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "xiaoapple",
@@ -145,8 +145,8 @@
             "type": 3,
             "api": "./plugin/app/小苹果APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "lianyuyingshi",
@@ -154,8 +154,8 @@
             "type": 3,
             "api": "./plugin/app/恋鱼影视APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "youyou",
@@ -163,8 +163,8 @@
             "type": 3,
             "api": "./plugin/app/悠悠APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "huoche",
@@ -172,8 +172,8 @@
             "type": 3,
             "api": "./plugin/app/火车太顺APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "aiguitv",
@@ -181,8 +181,8 @@
             "type": 3,
             "api": "./plugin/app/爱瓜TVAPP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "ruoxizhuiju",
@@ -190,8 +190,8 @@
             "type": 3,
             "api": "./plugin/app/若惜追剧APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "bianyuanyingshi",
@@ -199,8 +199,8 @@
             "type": 3,
             "api": "./plugin/app/边缘影视APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "lingdu",
@@ -208,8 +208,8 @@
             "type": 3,
             "api": "./plugin/app/零度影视APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "mofangyingshi",
@@ -217,8 +217,8 @@
             "type": 3,
             "api": "./plugin/app/魔方影视APP.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "嗷呜动漫",
@@ -235,8 +235,8 @@
         "type": 3,
         "api": "./plugin/official/优.py",
         "searchable": 1,
-        "filterable": 0,
-        "changeable": 0
+        "filterable": 1,
+        "changeable": 1
     },
     {
         "key": "爱APP",
@@ -244,8 +244,8 @@
         "type": 3,
         "api": "./plugin/official/爱.py",
         "searchable": 1,
-        "filterable": 0,
-        "changeable": 0
+        "filterable": 1,
+        "changeable": 1
     },
     {
         "key": "腾APP",
@@ -253,8 +253,8 @@
         "type": 3,
         "api": "./plugin/official/腾.py",
         "searchable": 1,
-        "filterable": 0,
-        "changeable": 0
+        "filterable": 1,
+        "changeable": 1
     },
     {
         "key": "芒APP",
@@ -262,8 +262,8 @@
         "type": 3,
         "api": "./plugin/official/芒.py",
         "searchable": 1,
-        "filterable": 0,
-        "changeable": 0
+        "filterable": 1,
+        "changeable": 1
     },
         {
             "key": "沐辰Hi视频",
@@ -281,8 +281,8 @@
             "type": 3,
             "api": "https://json.doube.eu.org/python/py_aigua.py",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "Qile优视频",
@@ -300,7 +300,7 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "style": {
                 "type": "rect",
                 "ratio": 0.75
