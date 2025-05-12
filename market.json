@@ -114,6 +114,24 @@
         "url": "https://gh.tryxd.cn/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-arm64_v8a.apk",
         "icon": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.png",
         "version": "手机最新版"
+      },
+      {
+        "name": "OK影视pro手机版",
+        "url": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/okpromb.apk",
+        "icon": "https://gh-proxy.llyke.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.png",
+        "version": "okpro"
+      },
+      {
+        "name": "OK影视pro手机版_mirror1",
+        "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/okpromb.apk",
+        "icon": "https://github.limoruirui.com/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.png",
+        "version": "okpro"
+      },
+      {
+        "name": "OK影视pro手机版_mirror2",
+        "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/apk/refs/heads/main/okpromb.apk",
+        "icon": "https://gh.tryxd.cn/https://raw.githubusercontent.com/sowahsun/PyramidStore/refs/heads/main/image/ysicon.png",
+        "version": "okpro"
       }
     ]
   },
