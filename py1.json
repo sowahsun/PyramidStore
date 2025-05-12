@@ -7,7 +7,7 @@
             "name": "商店",
             "type": 3,
             "api": "csp_Market",
-            "searchable": 0,
+            "searchable": 1,
             "changeable": 0,
             "ext": "./market.json"
         },
@@ -18,7 +18,7 @@
             "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "沐辰荐片",
@@ -27,7 +27,7 @@
             "api": "./plugin/app/荐片.py",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "海马影视APP",
@@ -45,7 +45,7 @@
             "api": "./plugin/app/奇迹APP.py",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
         "key": "骚火电影",
@@ -74,7 +74,7 @@
             "api": "./plugin/app/MiFunAPP.py",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "hitv",
@@ -83,7 +83,7 @@
             "api": "./plugin/app/hitvAPP.py",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "sanhaodongman",
@@ -110,7 +110,7 @@
             "api": "./plugin/app/云速影视APP.py",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "guangsu",
@@ -273,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "沐辰爱瓜TV",
@@ -347,7 +347,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "changeable": 0,
+            "changeable": 1,
             "header": {
                 "User-Agent": "okhttp/5.0.0-alpha.14",
                 "Referer": "test"
@@ -377,7 +377,7 @@
                 "ratio": 1.33
             },
             "searchable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "克隆合集",
@@ -461,14 +461,14 @@
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/zh/2241-2.php",
             "searchable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "1"
         },
         {
             "key": "直播转点播1",
             "name": "🐼️电视┃直播",
             "type": 3,
-            "searchable": 0,
+            "searchable": 1,
             "timeout": 60,
             "api": "./js/live2vod.js",
             "style": {
@@ -488,7 +488,7 @@
             },
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "./alistjar.json"
         },
         {
@@ -502,7 +502,7 @@
             },
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0,
+            "changeable": 1,
             "ext": {
                 "type": "沙雕穿越#闽剧#福州评话#短剧#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
                 "cookie": ""
@@ -728,6 +728,10 @@
         {
             "name": "肥羊",
             "url": "http://192.168.33.188:35455/tv.m3u"
+       },
+       {
+            "name": "smt",
+            "url": "http://192.168.33.188:35455/smt.php"
        },
        {
             "name": "直播杂源_mirror",
