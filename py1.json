@@ -731,7 +731,8 @@
        },
        {
             "name": "smt",
-            "url": "http://192.168.33.188:35455/smt.php"
+            "type": 3,
+            "api": "http://192.168.33.188:35455/smt.php"
        },
        {
             "name": "直播杂源_mirror",
