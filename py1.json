@@ -730,11 +730,6 @@
             "url": "http://192.168.33.188:35455/tv.m3u"
        },
        {
-            "name": "smt",
-            "type": 3,
-            "api": "http://192.168.33.188:35455/smt.php"
-       },
-       {
             "name": "直播杂源_mirror",
             "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
        },
