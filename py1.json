@@ -339,26 +339,26 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "searchable": 1,
-            "changeable": 1
+            "searchable": 0,
+            "changeable": 0
         },
         {
             "key": "甜圈短剧",
             "name": "甜圈短剧_html",
             "type": 3,
             "api": "./plugin/html/甜圈短剧.py",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "偷乐短剧",
             "name": "偷乐短剧_html",
             "type": 3,
             "api": "./plugin/html/偷乐短剧.py",
-            "searchable": 1,
+            "searchable": 0,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "嗷呜动漫",
@@ -367,7 +367,7 @@
             "api": "./plugin/html/嗷呜动漫.py",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "sanhaodongman",
@@ -376,7 +376,7 @@
             "api": "./plugin/app/三号动漫APP.py",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "采集集合go",
