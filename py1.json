@@ -309,7 +309,7 @@
         },
         {
             "key": "youyou",
-            "name": "悠悠APP",
+            "name": "悠悠APP_CN",
             "type": 3,
             "api": "./plugin/app/悠悠APP.py",
             "searchable": 1,
