@@ -12,6 +12,96 @@
             "ext": "./market.json"
         },
         {
+        "key": "4KAV",
+        "name": "4KAV_html",
+        "type": 3,
+        "api": "./plugin/html/4KAV.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "偷乐短剧",
+        "name": "偷乐短剧_html",
+        "type": 3,
+        "api": "./plugin/html/偷乐短剧.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "剧粑粑",
+        "name": "剧粑粑_html",
+        "type": 3,
+        "api": "./plugin/html/剧粑粑.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "嗷呜动漫",
+        "name": "嗷呜动漫CN_html",
+        "type": 3,
+        "api": "./plugin/html/嗷呜动漫.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "旺旺",
+        "name": "旺旺_html",
+        "type": 3,
+        "api": "./plugin/html/旺旺.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "柯南影视",
+        "name": "柯南影视_html",
+        "type": 3,
+        "api": "./plugin/html/柯南影视.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "甜圈短剧",
+        "name": "甜圈短剧_html",
+        "type": 3,
+        "api": "./plugin/html/甜圈短剧.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "红果网页",
+        "name": "红果网页_html",
+        "type": 3,
+        "api": "./plugin/html/红果网页.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "绝对影视",
+        "name": "绝对影视_html",
+        "type": 3,
+        "api": "./plugin/html/绝对影视.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
+        "key": "骚火电影",
+        "name": "骚火电影_html",
+        "type": 3,
+        "api": "./plugin/html/骚火电影.py",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1
+        },
+        {
             "key": "沐辰界影视",
             "name": "沐辰界影视",
             "type": 3,
