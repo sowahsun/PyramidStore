@@ -103,42 +103,6 @@
             "changeable": 1
         },
         {
-            "key": "guangsu",
-            "name": "光速APP",
-            "type": 3,
-            "api": "./plugin/app/光速APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "juduoduanju",
-            "name": "剧多短剧APP",
-            "type": 3,
-            "api": "./plugin/app/剧多短剧APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "guowai",
-            "name": "国外剧APP",
-            "type": 3,
-            "api": "./plugin/app/国外剧APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "xiaoapple",
-            "name": "小苹果APP",
-            "type": 3,
-            "api": "./plugin/app/小苹果APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "lianyuyingshi",
             "name": "恋鱼影视APP",
             "type": 3,
@@ -148,28 +112,10 @@
             "changeable": 1
         },
         {
-            "key": "youyou",
-            "name": "悠悠APP",
-            "type": 3,
-            "api": "./plugin/app/悠悠APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "huoche",
             "name": "火车太顺APP",
             "type": 3,
             "api": "./plugin/app/火车太顺APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "aiguitv",
-            "name": "爱瓜TVAPP",
-            "type": 3,
-            "api": "./plugin/app/爱瓜TVAPP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
@@ -248,9 +194,18 @@
         },
         {
             "key": "沐辰爱瓜TV",
-            "name": "沐辰爱瓜TV",
+            "name": "proxy_沐辰爱瓜(优)",
             "type": 3,
             "api": "https://json.doube.eu.org/python/py_aigua.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "aiguitv",
+            "name": "proxy_爱瓜TVAPP",
+            "type": 3,
+            "api": "./plugin/app/爱瓜TVAPP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
@@ -325,6 +280,15 @@
             }
         },
         {
+            "key": "youyou",
+            "name": "悠悠APP",
+            "type": 3,
+            "api": "./plugin/app/悠悠APP.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "huarenoktv",
             "name": "华人直播️",
             "type": 1,
@@ -368,7 +332,7 @@
             "filterable": 1,
             "changeable": 1
         },
-         {
+        {
             "key": "嗷呜动漫",
             "name": "嗷呜动漫CN_html",
             "type": 3,
@@ -461,6 +425,15 @@
             },
             "changeable": 1,
             "ext": "http://zhangqun1818.serv00.net/zq/js/ddys.js"
+        },
+        {
+            "key": "guowai",
+            "name": "国外剧APP",
+            "type": 3,
+            "api": "./plugin/app/国外剧APP.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "直播转点播php",
