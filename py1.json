@@ -59,7 +59,7 @@
         },
         {
         "key": "4KAV",
-        "name": "4KAV",
+        "name": "4KAV(only CN)",
         "type": 3,
         "api": "./plugin/html/4KAV.py",
         "searchable": 1,
