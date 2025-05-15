@@ -21,6 +21,15 @@
             "changeable": 1
         },
         {
+            "key": "ruoxizhuiju",
+            "name": "若惜追剧APP（优）",
+            "type": 3,
+            "api": "./plugin/app/若惜追剧APP.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "剧粑粑",
             "name": "剧粑粑_html",
             "type": 3,
@@ -116,15 +125,6 @@
             "name": "火车太顺APP",
             "type": 3,
             "api": "./plugin/app/火车太顺APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "ruoxizhuiju",
-            "name": "若惜追剧APP",
-            "type": 3,
-            "api": "./plugin/app/若惜追剧APP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
