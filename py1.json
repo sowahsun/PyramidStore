@@ -13,7 +13,7 @@
         },
         {
             "key": "旺旺",
-            "name": "旺旺_html",
+            "name": "旺旺_html（优）",
             "type": 3,
             "api": "./plugin/html/旺旺.py",
             "searchable": 1,
@@ -125,15 +125,6 @@
             "name": "火车太顺APP",
             "type": 3,
             "api": "./plugin/app/火车太顺APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "bianyuanyingshi",
-            "name": "边缘影视APP",
-            "type": 3,
-            "api": "./plugin/app/边缘影视APP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
@@ -431,6 +422,15 @@
             "name": "国外剧APP",
             "type": 3,
             "api": "./plugin/app/国外剧APP.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "bianyuanyingshi",
+            "name": "边缘影视APP",
+            "type": 3,
+            "api": "./plugin/app/边缘影视APP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
