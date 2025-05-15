@@ -1,4 +1,7 @@
-[
+{
+    "spider": "./jar/custom_spider.jar",
+    "wallpaper": "https://深色壁纸.xxooo.cf",
+    "sites": [
     {
         "key": "4KAV",
         "name": "4KAV_html",
@@ -135,3 +138,4 @@
         "changeable": 1
     }
 ]
+}
