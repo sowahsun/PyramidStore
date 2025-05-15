@@ -57,15 +57,6 @@
             "changeable": 1
         },
         {
-            "key": "海马影视APP",
-            "name": "海马影视APP",
-            "type": 3,
-            "api": "./plugin/app/海马影视.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "奇迹APP",
             "name": "奇迹APP",
             "type": 3,
@@ -89,51 +80,6 @@
             "name": "4KAV_html",
             "type": 3,
             "api": "./plugin/html/4KAV.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "mifun",
-            "name": "MiFunAPP",
-            "type": 3,
-            "api": "./plugin/app/MiFunAPP.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "hitv",
-            "name": "hitvAPP",
-            "type": 3,
-            "api": "./plugin/app/hitvAPP.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "红果网页",
-            "name": "红果网页_html",
-            "type": 3,
-            "api": "./plugin/html/红果网页.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "绝对影视",
-            "name": "绝对影视_html",
-            "type": 3,
-            "api": "./plugin/html/绝对影视.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "sanhaodongman",
-            "name": "三号动漫APP",
-            "type": 3,
-            "api": "./plugin/app/三号动漫APP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
@@ -265,15 +211,6 @@
             "changeable": 1
         },
         {
-            "key": "嗷呜动漫",
-            "name": "嗷呜动漫CN_html",
-            "type": 3,
-            "api": "./plugin/html/嗷呜动漫.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "优APP",
             "name": "优APP",
             "type": 3,
@@ -307,16 +244,6 @@
             "api": "./plugin/official/芒.py",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "沐辰Hi视频",
-            "name": "沐辰Hi视频",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=UpFuHn",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
             "changeable": 1
         },
         {
@@ -437,6 +364,24 @@
             "name": "偷乐短剧_html",
             "type": 3,
             "api": "./plugin/html/偷乐短剧.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+         {
+            "key": "嗷呜动漫",
+            "name": "嗷呜动漫CN_html",
+            "type": 3,
+            "api": "./plugin/html/嗷呜动漫.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "sanhaodongman",
+            "name": "三号动漫APP",
+            "type": 3,
+            "api": "./plugin/app/三号动漫APP.py",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
