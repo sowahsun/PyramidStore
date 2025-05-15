@@ -12,24 +12,6 @@
         "changeable": 1
     },
     {
-        "key": "LIVES",
-        "name": "LIVES_html",
-        "type": 3,
-        "api": "./plugin/html/LIVES.py",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1
-    },
-    {
-        "key": "LREEOK",
-        "name": "LREEOK_html",
-        "type": 3,
-        "api": "./plugin/html/LREEOK.py",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1
-    },
-    {
         "key": "偷乐短剧",
         "name": "偷乐短剧_html",
         "type": 3,
@@ -49,27 +31,9 @@
     },
     {
         "key": "嗷呜动漫",
-        "name": "嗷呜动漫_html",
+        "name": "嗷呜动漫CN_html",
         "type": 3,
         "api": "./plugin/html/嗷呜动漫.py",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1
-    },
-    {
-        "key": "好帅短剧",
-        "name": "好帅短剧_html",
-        "type": 3,
-        "api": "./plugin/html/好帅短剧.py",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1
-    },
-    {
-        "key": "小红影视",
-        "name": "小红影视_html",
-        "type": 3,
-        "api": "./plugin/html/小红影视.py",
         "searchable": 1,
         "filterable": 1,
         "changeable": 1
@@ -115,15 +79,6 @@
         "name": "绝对影视_html",
         "type": 3,
         "api": "./plugin/html/绝对影视.py",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1
-    },
-    {
-        "key": "金牌",
-        "name": "金牌_html",
-        "type": 3,
-        "api": "./plugin/html/金牌.py",
         "searchable": 1,
         "filterable": 1,
         "changeable": 1
