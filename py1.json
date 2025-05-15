@@ -257,6 +257,43 @@
             "jar": "./jar/GM.jar"
         },
         {
+            "key": "服务器油管",
+            "name": "proxy-服务器油管",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "动作片#科幻片#沙雕穿越#中国动漫#小说#影视解说#新闻直播#动物#风光#放松#短剧#古装短剧#萌宝短剧#经典音乐#海洋#太空#穿越短剧"
+        },
+        {
+            "key": "油管播放列表1",
+            "name": "proxy-油管播放列表1",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/ytlb.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "油管播放列表2",
+            "name": "proxy-油管播放列表2",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/ytlb1.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "沐辰八号影院",
             "name": "沐辰八号影院",
             "type": 4,
@@ -342,20 +379,6 @@
             "changeable": 1
         },
         {
-            "key": "克隆合集",
-            "name": "克隆合集",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/klhj.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "filterable": 0
-        },
-        {
             "key": "采集集合go",
             "name": "采集集合go",
             "type": 1,
@@ -365,43 +388,6 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "changeable": 1
-        },
-        {
-            "key": "服务器油管",
-            "name": "proxy-服务器油管",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "动作片#科幻片#沙雕穿越#中国动漫#小说#影视解说#新闻直播#动物#风光#放松#短剧#古装短剧#萌宝短剧#经典音乐#海洋#太空#穿越短剧"
-        },
-        {
-            "key": "油管播放列表1",
-            "name": "proxy-油管播放列表1",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/ytlb.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "油管播放列表2",
-            "name": "proxy-油管播放列表2",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/ytlb1.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
             "changeable": 1
         },
         {
