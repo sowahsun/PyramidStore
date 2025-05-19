@@ -48,7 +48,7 @@
       "ratio": 1.1
             },
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "changeable": 1,
       "ext": "./alistjar.json"
       }
