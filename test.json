@@ -22,9 +22,9 @@
     },
     {
       "key": "海马影视APP",
-      "name": "海马影视APP",
+      "name": "t",
       "type": 3,
-      "api": "./plugin/app/海马影视APP.py",
+      "api": "./plugin/app/t.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
