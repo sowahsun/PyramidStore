@@ -13,7 +13,7 @@
     },
     {
       "key": "热播",
-      "name": "热播(filter)",
+      "name": "热播(app1)",
       "type": 3,
       "api": "./plugin/app1/热播.py",
       "searchable": 1,
@@ -22,13 +22,37 @@
     },
     {
       "key": "海马",
-      "name": "海马(filter)",
+      "name": "海马(app1)",
       "type": 3,
       "api": "./plugin/app1/海马.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
-    }
+    },
+    {
+      "key": "魔方影视",
+      "name": "魔方影视",
+      "type": 3,
+      "api": "./plugin/app/魔方影视.py",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "alist",
+      "name": "alist网盘jar",
+      "type": 3,
+      "api": "csp_AList",
+      "style": {
+      "type": "list",
+      "ratio": 1.1
+            },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": "./alistjar.json"
+      }
+    
   ],
   "lives": [
     {
