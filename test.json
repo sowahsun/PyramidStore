@@ -21,8 +21,8 @@
       "changeable": 1
     },
     {
-      "key": "t",
-      "name": "t",
+      "key": "海马",
+      "name": "海马APP",
       "type": 3,
       "api": "./plugin/APP/t.py",
       "searchable": 1,
