@@ -31,16 +31,16 @@
     },
     {
       "key": "魔方影视",
-      "name": "魔方影视",
+      "name": "魔方影视APP",
       "type": 3,
-      "api": "./plugin/app/魔方影视.py",
+      "api": "./plugin/app/魔方影视APP.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
     },
     {
       "key": "alist",
-      "name": "alist网盘jar",
+      "name": "alist网盘",
       "type": 3,
       "api": "csp_AList",
       "style": {
