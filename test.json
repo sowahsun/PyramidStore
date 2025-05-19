@@ -21,8 +21,8 @@
             "changeable": 1
         },
         {
-            "key": "海马影视",
-            "name": "海马影视.APP",
+            "key": "海马影视APP",
+            "name": "海马影视APP",
             "type": 3,
             "api": "./plugin/app/海马影视APP.py",
             "searchable": 1,
@@ -30,29 +30,29 @@
             "changeable": 1
         }
     ],
-    "lives": [
+    "lives":  "lives": [
         {
             "name": "直播杂源",
-            "url": "<url id=\"d0lgv4g7dlccsl1ocjlg\" type=\"url\" status=\"failed\" title=\"\" wc=\"0\">https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u</url> "
+            "url": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         },
         {
             "name": "LITV直播(python)",
             "type": 3,
-            "api": "<url id=\"d0lgv4g7dlccsl1ocjm0\" type=\"url\" status=\"parsed\" title=\"\" wc=\"100806\">https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py</url> ",
+            "api": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
             "ext": {}
         },
         {
             "name": "肥羊",
-            "url": "<url id=\"d0lgv4g7dlccsl1ocjmg\" type=\"url\" status=\"failed\" title=\"\" wc=\"0\">http://192.168.33.188:35455/tv.m3u</url> "
+            "url": "http://192.168.33.188:35455/tv.m3u"
         },
         {
             "name": "直播杂源_mirror",
-            "url": "<url id=\"d0lgv4g7dlccsl1ocjn0\" type=\"url\" status=\"parsed\" title=\"\" wc=\"138787\">https://github.limoruirui.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u</url> "
+            "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         },
         {
             "name": "LITV直播(python)_mirror",
             "type": 3,
-            "api": "<url id=\"d0lgv4g7dlccsl1ocjng\" type=\"url\" status=\"failed\" title=\"\" wc=\"0\">https://github.limoruirui.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py</url> ",
+            "api": "https://github.limoruirui.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
             "ext": {}
         }
     ]
