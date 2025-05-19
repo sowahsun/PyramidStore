@@ -21,7 +21,7 @@
       "changeable": 1
     },
     {
-      "key": "海马影视APP",
+      "key": "t",
       "name": "t",
       "type": 3,
       "api": "./plugin/app/t.py",
