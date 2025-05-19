@@ -41,7 +41,7 @@ class Spider(Spider):
         filters = {}
         for k in data['data']['list']:
             # 过滤掉美剧和泰剧分类
-            if '美剧' not in k['type_name'] and '泰剧' not in k['type_name']:
+            if '美剧' not in k['type_name'] and '泰剧' not in k['type_name']and '台剧' not in k['type_name']:
                 classes.append({
                     'type_name': k['type_name'],
                     'type_id': k['type_id']
