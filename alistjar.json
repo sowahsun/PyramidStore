@@ -1,7 +1,7 @@
 {
     "drives": [
         {
-            "name": "小雅网盘2",
+            "name": "网盘",
             "search": true,
             "searchable": true,
             "server": "http://59.61.250.91:5678/"
