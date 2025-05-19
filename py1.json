@@ -12,7 +12,7 @@
             "ext": "./market.json"
         },
         {
-            "key": "rebo",
+            "key": "热播",
             "name": "热播APP",
             "type": 3,
             "api": "./plugin/app/热播APP.py",
