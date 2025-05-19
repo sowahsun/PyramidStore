@@ -12,6 +12,15 @@
             "ext": "./market.json"
         },
         {
+            "key": "rebo",
+            "name": "热播APP",
+            "type": 3,
+            "api": "./plugin/app/热播APP.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "lingdu",
             "name": "零度影视APP",
             "type": 3,
