@@ -24,7 +24,7 @@
       "key": "海马",
       "name": "海马APP",
       "type": 3,
-      "api": "./plugin/APP/t.py",
+      "api": "./plugin/APP/海马.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
