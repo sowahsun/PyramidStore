@@ -13,7 +13,7 @@
         },
         {
             "key": "热播",
-            "name": "热播APP",
+            "name": "热播(新增)",
             "type": 3,
             "api": "./plugin/app/热播APP.py",
             "searchable": 1,
