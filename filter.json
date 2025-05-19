@@ -13,7 +13,7 @@
     },
     {
       "key": "热播",
-      "name": "热播(新增)",
+      "name": "热播(filter)",
       "type": 3,
       "api": "./plugin/app1/热播.py",
       "searchable": 1,
@@ -22,7 +22,7 @@
     },
     {
       "key": "海马",
-      "name": "海马APP",
+      "name": "海马(filter)",
       "type": 3,
       "api": "./plugin/app1/海马.py",
       "searchable": 1,
