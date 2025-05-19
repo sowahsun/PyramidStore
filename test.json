@@ -1,59 +1,59 @@
 {
-    "spider": "./jar/custom_spider.jar",
-    "wallpaper": "https://深色壁纸.xxooo.cf",
-    "sites": [
-        {
-            "key": "商店",
-            "name": "商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./market.json"
-        },
-        {
-            "key": "热播",
-            "name": "热播(新增)",
-            "type": 3,
-            "api": "./plugin/app/热播APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "海马影视APP",
-            "name": "海马影视APP",
-            "type": 3,
-            "api": "./plugin/app/海马影视APP.py",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        }
-    ],
-    "lives":  "lives": [
-        {
-            "name": "直播杂源",
-            "url": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-        },
-        {
-            "name": "LITV直播(python)",
-            "type": 3,
-            "api": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-            "ext": {}
-        },
-        {
-            "name": "肥羊",
-            "url": "http://192.168.33.188:35455/tv.m3u"
-        },
-        {
-            "name": "直播杂源_mirror",
-            "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-        },
-        {
-            "name": "LITV直播(python)_mirror",
-            "type": 3,
-            "api": "https://github.limoruirui.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-            "ext": {}
-        }
-    ]
+  "spider": "./jar/custom_spider.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf",
+  "sites": [
+    {
+      "key": "商店",
+      "name": "商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./market.json"
+    },
+    {
+      "key": "热播",
+      "name": "热播(新增)",
+      "type": 3,
+      "api": "./plugin/app/热播APP.py",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "海马影视APP",
+      "name": "海马影视APP",
+      "type": 3,
+      "api": "./plugin/app/海马影视APP.py",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播杂源",
+      "url": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+    },
+    {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+      "ext": {}
+    },
+    {
+      "name": "肥羊",
+      "url": "http://192.168.33.188:35455/tv.m3u"
+    },
+    {
+      "name": "直播杂源_mirror",
+      "url": "https://github.limoruirui.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+    },
+    {
+      "name": "LITV直播(python)_mirror",
+      "type": 3,
+      "api": "https://github.limoruirui.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+      "ext": {}
+    }
+  ]
 }
