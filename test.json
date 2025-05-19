@@ -1,0 +1,50 @@
+{
+    "spider": "./jar/custom_spider.jar",
+    "wallpaper": "https://深色壁纸.xxooo.cf",
+    "sites": [
+        {
+            "key": "商店",
+            "name": "商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./market.json"
+        },
+        {
+            "key": "热播",
+            "name": "热播(新增)",
+            "type": 3,
+            "api": "./plugin/app/热播APP.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        }
+    ],
+    "lives": [
+        {
+            "name": "直播杂源",
+            "url": "<url id=\"d0lgv4g7dlccsl1ocjlg\" type=\"url\" status=\"failed\" title=\"\" wc=\"0\">https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u</url> "
+        },
+        {
+            "name": "LITV直播(python)",
+            "type": 3,
+            "api": "<url id=\"d0lgv4g7dlccsl1ocjm0\" type=\"url\" status=\"parsed\" title=\"\" wc=\"100806\">https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py</url> ",
+            "ext": {}
+        },
+        {
+            "name": "肥羊",
+            "url": "<url id=\"d0lgv4g7dlccsl1ocjmg\" type=\"url\" status=\"failed\" title=\"\" wc=\"0\">http://192.168.33.188:35455/tv.m3u</url> "
+        },
+        {
+            "name": "直播杂源_mirror",
+            "url": "<url id=\"d0lgv4g7dlccsl1ocjn0\" type=\"url\" status=\"parsed\" title=\"\" wc=\"138787\">https://github.limoruirui.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u</url> "
+        },
+        {
+            "name": "LITV直播(python)_mirror",
+            "type": 3,
+            "api": "<url id=\"d0lgv4g7dlccsl1ocjng\" type=\"url\" status=\"failed\" title=\"\" wc=\"0\">https://github.limoruirui.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py</url> ",
+            "ext": {}
+        }
+    ]
+}
