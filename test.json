@@ -24,7 +24,7 @@
       "key": "t",
       "name": "t",
       "type": 3,
-      "api": "./plugin/app/t.py",
+      "api": "./plugin/APP/t.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
