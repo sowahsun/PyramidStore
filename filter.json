@@ -15,7 +15,7 @@
       "key": "热播",
       "name": "热播(新增)",
       "type": 3,
-      "api": "./plugin/APP/热播.py",
+      "api": "./plugin/app1/热播.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
@@ -24,7 +24,7 @@
       "key": "海马",
       "name": "海马APP",
       "type": 3,
-      "api": "./plugin/APP/海马.py",
+      "api": "./plugin/app1/海马.py",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
