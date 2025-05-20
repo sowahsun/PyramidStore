@@ -39,6 +39,15 @@
       "changeable": 1
     },
     {
+      "key": "猎手影视",
+      "name": "猎手影视",
+      "type": 3,
+      "api": "./plugin/app/猎手影视.py",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "alist",
       "name": "alist网盘",
       "type": 3,
