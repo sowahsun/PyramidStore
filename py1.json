@@ -388,16 +388,18 @@
             "changeable": 0
         },
         {
-            "key": "采集集合go",
-            "name": "采集集合go",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net:5053",
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/klhj.php",
             "searchable": 1,
+            "quickSearch": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
-            "changeable": 1
+            "changeable": 1,
+            "filterable": 0
         },
         {
             "key": "低端影视",
