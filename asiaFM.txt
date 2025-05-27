@@ -1,0 +1,28 @@
+AsiaFM,#genre#
+AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
+AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空,http://funradio.cn:8000/funradio
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
+Big B Radio - 中文流行,http://cpop.bigbradio.net/s
+Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio - 日语流行,http://jpop.bigbradio.net/s
