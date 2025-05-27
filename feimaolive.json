@@ -22,5 +22,10 @@
 {
         "name": "live杂源",
         "url": "https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"
+    },
+{
+        "name": "asia_FM",
+        "url": "./asiaFM.txt"
     }
+
 ]
