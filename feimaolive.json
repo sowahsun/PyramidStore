@@ -8,6 +8,10 @@
         "url": "http://192.168.33.188/smt.php"
     },
 {
+        "name": "iptv",
+        "url": "https://github.catvod.com/https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv.m3u"
+    },    
+{
         "name": "BRTV同步更新",
         "url": "https://github.catvod.com/https://github.com/mytv-android/BRTV-Live-M3U8/blob/main/BRTV.m3u"
     },
@@ -26,6 +30,10 @@
 {
         "name": "asia_FM",
         "url": "./asiaFM.txt"
-    }
+    },
+{
+        "name": "radio",
+        "url": "https://live.kilvn.com/radio.m3u"
+    }    
 
 ]
