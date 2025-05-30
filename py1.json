@@ -711,6 +711,17 @@
             "url": "https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"
         },
         {
+  "name": "SMT直播(python)",
+  "type": 3,
+  "api": "https://json.doube.eu.org/python/live_smt.py",
+  "ext": {
+    "proxy": {
+      "http": "http://127.0.0.1:10809",
+      "https": "http://127.0.0.1:10809"
+        }
+        }
+        },
+        {
             "name": "快直播(python)",
             "type": 3,
             "api":                              "https://json.doube.eu.org/python/live_kzb.py",
