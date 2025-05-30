@@ -4,6 +4,10 @@
         "url": "http://192.168.33.188:35455/tv.m3u"
     },
 {
+        "name": "肥羊NPTV",
+        "url": "https://nptv.freetv.top/juhe.m3u"
+    },
+{
         "name": "smt",
         "url": "http://192.168.33.188/smt.php"
     },
