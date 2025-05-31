@@ -4,6 +4,14 @@
         "url": "http://192.168.33.188:35455/tv.m3u"
     },
 {
+      name: "M3U外语电视",
+      url: "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_global_attributes_removed.m3u"
+    },
+{
+      name: "M3U国语电视",
+      url: "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u"
+    },        
+{
         "name": "肥羊NPTV",
         "url": "https://nptv.freetv.top/juhe.m3u"
     },
