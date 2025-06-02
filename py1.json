@@ -703,6 +703,10 @@
             "ext": {}
         },
         {
+            "name": "临时肥羊",
+            "url": "https://nptv.freetv.top/nptv.m3u"
+        },
+        {
             "name": "肥羊",
             "url": "http://192.168.33.188:35455/tv.m3u"
         },
