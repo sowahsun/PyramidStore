@@ -707,6 +707,10 @@
             "url": "http://192.168.33.188:35455/tv.m3u"
         },
         {
+            "name": "brtv_8K",
+            "url": "http://192.168.33.188/fltv.php"
+        },
+        {
             "name": "直播杂源_mirror",
             "url": "https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"
         },
