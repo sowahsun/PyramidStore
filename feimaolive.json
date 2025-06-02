@@ -4,10 +4,6 @@
         "url": "http://192.168.33.188:35455/tv.m3u"
     },
 {
-            "name": "brtv_8K",
-            "url": "http://192.168.33.188/fltv.php"
-    },
-{
       "name": "m3u外文",
       "url": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_global_attributes_removed.m3u"
     },
