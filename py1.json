@@ -402,7 +402,7 @@
             "filterable": 0
         },
         {
-            "key": "低端影视",
+            "key": "低端影视1",
             "name": "低端┃影视",
             "type": 3,
             "api": "./drpy2.min.js",
@@ -413,6 +413,17 @@
             },
             "changeable": 1,
             "ext": "./ddys.js"
+        },
+        {
+            "key": "低端影视XYQ",
+            "name": "低端｜影视",
+            "type": 3,
+            "jar": "./jar/xyqxbpq.jar",
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "guowai",
