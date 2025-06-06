@@ -402,8 +402,8 @@
             "filterable": 0
         },
         {
-            "key": "低端影视1",
-            "name": "低端┃影视",
+            "key": "低端影视",
+            "name": "低端┃影视ZQ",
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
@@ -415,8 +415,8 @@
             "ext": "./ddys.js"
         },
         {
-            "key": "低端影视XYQ",
-            "name": "低端｜影视",
+            "key": "低端影视",
+            "name": "低端｜影视XYQ",
             "type": 3,
             "jar": "./jar/xyqxbpq.jar",
             "api": "csp_Ddys",
