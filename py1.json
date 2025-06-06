@@ -405,14 +405,14 @@
             "key": "低端影视",
             "name": "低端┃影视",
             "type": 3,
-            "api": "http://zhangqun1818.serv00.net/zq/api/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "changeable": 1,
-            "ext": "http://zhangqun1818.serv00.net/zq/js/ddys.js"
+            "ext": "./ddys.js"
         },
         {
             "key": "guowai",
@@ -703,10 +703,6 @@
             "ext": {}
         },
         {
-            "name": "临时肥羊",
-            "url": "https://nptv.freetv.top/juhe.m3u"
-        },
-        {
             "name": "肥羊",
             "url": "http://192.168.33.188:35455/tv.m3u"
         },
@@ -719,10 +715,10 @@
             "url": "https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"
         },
         {
-  "name": "SMT直播(python)",
-  "type": 3,
-  "api": "https://json.doube.eu.org/python/live_smt.py",
-  "ext": { }
+            "name": "SMT直播(python)",
+            "type": 3,
+            "api": "https://json.doube.eu.org/python/live_smt.py",
+            "ext": { }
         },
         {
             "name": "快直播(python)",
